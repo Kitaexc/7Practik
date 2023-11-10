@@ -1,0 +1,17 @@
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Convertor 0_0.exe
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Convertor 0_0.deps.json
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Convertor 0_0.runtimeconfig.json
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Convertor 0_0.dll
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Convertor 0_0.pdb
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.dll
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\refint\Convertor 0_0.dll
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.pdb
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.genruntimeconfig.cache
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\ref\Convertor 0_0.dll
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\Convertor 0_0\Convertor 0_0\obj\Debug\net7.0\Convertor 0_0.csproj.CopyComplete
